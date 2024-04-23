@@ -47,3 +47,8 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
+
+a{
+	cursor: initial; /*retira estilos de cursor*/
+	text-decoration: none;
+}
